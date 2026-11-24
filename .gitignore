@@ -1,0 +1,2 @@
+# Backups of .env, which hold secrets
+.env.bak*
